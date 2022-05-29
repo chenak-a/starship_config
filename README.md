@@ -3,7 +3,7 @@
 <img src = "https://github.githubassets.com/images/mona-loading-dark.gif" width=20/> Terminal UI config
 ## :hammer_and_wrench: Installation 
 
-Install [starship](https://starship.rs/guide/#%F0%9F%9A%80-installation)
+Install [starship](https://starship.rs/guide/#%F0%9F%9A%80-installation),execute this command
 
 ```bash
 cp starship.toml ~/.config/
