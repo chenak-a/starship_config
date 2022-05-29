@@ -9,7 +9,7 @@ Install [starship](https://starship.rs/guide/#%F0%9F%9A%80-installation), execut
 Install [starship](https://starship.rs/guide/#%F0%9F%9A%80-installation) at [step 3](https://starship.rs/guide/#step-3-configure-starship) execute this command
 
 ```bash
-cp starship.toml ~/.config/
+./starship.sh
 
 ```
 ## :tada: Result
